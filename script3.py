@@ -1,1 +1,1 @@
-print(donot loose your hope)
+print("donot loose your hope")
